@@ -7,3 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![GIF-1](https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)
 
+---
+### 	:ledger: **Codewars**
+
+[![Profile badge](https://www.codewars.com/users/AndrLoko/badges/large)](https://www.codewars.com/users/AndrLoko)
+
+

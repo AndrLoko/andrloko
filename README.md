@@ -9,40 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### 💻 Technologies:
-
-<div>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
-  <img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" title="Webpack" alt="Webpack" width="38" height="40"/>&nbsp
-  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/woocommerce/logo-1664499314299.png?v=1689111447961" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
-</div>
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VS code" alt="VS code" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="canva" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" title="figma" alt="figma" width="30" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### 🤝 Social media:
+### 📘 Social media:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrew-lokotosh-32867128a/" target="_blank">
@@ -65,6 +32,39 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### 	:ledger: **Codewars**
+### 📗 Technologies:
+
+<div>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
+  <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" title="Webpack" alt="Webpack" width="38" height="40"/>&nbsp
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/woocommerce/logo-1664499314299.png?v=1689111447961" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+</div>
+
+---
+
+### 📓 Tools:
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VS code" alt="VS code" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" title="figma" alt="figma" width="30" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 	:ledger: Codewars:
 
 [![Profile badge](https://www.codewars.com/users/AndrLoko/badges/large)](https://www.codewars.com/users/AndrLoko)

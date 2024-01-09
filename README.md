@@ -17,6 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" title="Webpack" alt="Webpack" width="38" height="40"/>&nbsp
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp

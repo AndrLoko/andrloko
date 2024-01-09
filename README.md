@@ -75,6 +75,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrLoko&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndrLoko&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=dark)
 
 

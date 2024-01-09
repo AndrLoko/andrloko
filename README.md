@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### 🤝 Social media:
+### 🤝 Social media::
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrew-lokotosh-32867128a/" target="_blank">
@@ -20,6 +20,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
     <a href="https://www.instagram.com/andrloko/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Youtube"/>
+    </a>
+    <a href="https://twitter.com/1mMatix" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/3670/3670151.png" width="40" height="40" alt="Youtube"/>
+    </a>
+    <a href="https://ru.pinterest.com/1mMatixss" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/128/1377/1377257.png" width="40" height="40" alt="Youtube"/>
     </a>
 
   </div>

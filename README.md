@@ -69,10 +69,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### :ledger: **Codewars:**
 
 [![Profile badge](https://www.codewars.com/users/AndrLoko/badges/large)](https://www.codewars.com/users/AndrLoko)
+<br /><br />
 
-### 📙 **GitHub statistics:**
+### 📙 **GitHub stats:**
+<br />
 
-<p>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrLoko&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndrLoko&layout=compact&theme=dark)
+
+

@@ -56,7 +56,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### 📓 **Tools:**
+### 📙 **Tools:**
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VS code" alt="VS code" width="40" height="40"/>&nbsp;
@@ -74,7 +74,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Profile badge](https://www.codewars.com/users/AndrLoko/badges/large)](https://www.codewars.com/users/AndrLoko)
 <br /><br />
 
-### 📙 **GitHub stats:**
+### 📓 **GitHub stats:**
 
 <table>
   <tr>

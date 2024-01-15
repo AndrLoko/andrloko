@@ -57,7 +57,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 ### 📙 **Tools:**
-https://radikal.host/i/c1OFRu
+
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VS code" alt="VS code" width="40" height="40"/>&nbsp;
   <img src="https://radikal.host/i/c1OFRu" title="canva" alt="Open Server" width="40" height="40"/>&nbsp;

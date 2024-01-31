@@ -63,7 +63,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" title="figma" alt="figma" width="30" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/evernote_logo_icon_154465.png" title="Evernote" alt="Evernote" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png?20170527113000" title="Evernote" alt="Evernote" width="40" height="40"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/codepen-icon-2048x2048-j3cgyniz.png" title="Codepen" alt="Evernote" width="40" height="40"/>&nbsp;
 </div>
 
 ---

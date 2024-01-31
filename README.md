@@ -49,9 +49,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://s3.amazonaws.com/cmscritic.mediasite.org/assets/products/woocommerce/logo-1664499314299.png?v=1689111447961" title="WooCommerce" alt="WooCommerce" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
 ---

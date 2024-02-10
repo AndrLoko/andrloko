@@ -87,7 +87,7 @@ Hi, my name is Andrew
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndrLoko&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AndrLoko/github-readme-stats#gh-dark-mode-only" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrStanDu33&layout=compact&theme=dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndrLoko&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>

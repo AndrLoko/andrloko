@@ -64,7 +64,7 @@ Hi, my name is Andrew
 
 ### 📙 **Tools:**
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VS code" alt="VS code" width="40" height="40"/>&nbsp;
+  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source" title="VS code" alt="VS code" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="canva" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" title="figma" alt="figma" width="30" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/evernote_logo_icon_154465.png" title="Evernote" alt="Evernote" width="40" height="40"/>&nbsp;

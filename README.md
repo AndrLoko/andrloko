@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7af6b67c-c258-4d80-a6f7-58e2cf718b2f)Hi, my name is Andrew
+Hi, my name is Andrew
 ==============================================================================================================================
 
 ### :closed_book: **About Me:**

@@ -53,7 +53,7 @@ Hi, my name is Andrew
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" title="NodeJS" alt="NodeJS" width="40" height="43"/>&nbsp
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27881%2Fredux&psig=AOvVaw39uM63OQVtO6iYhQSUwKv_&ust=1724694361346000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIix56fZkIgDFQAAAAAdAAAAABAE" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" title="Webpack" alt="Webpack" width="38" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;

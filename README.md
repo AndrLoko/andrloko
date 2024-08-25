@@ -49,7 +49,7 @@ Hi, my name is Andrew
   <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
-  <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp

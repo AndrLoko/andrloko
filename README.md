@@ -28,7 +28,7 @@ Hi, my name is Andrew
     <a href="https://t.me/andrewmatix" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://www.instagram.com/andrloko/" target="_blank">
+    <a href="https://www.instagram.com/matixandrew/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Youtube"/>
     </a>
     <a href="https://twitter.com/1mMatix" target="_blank">

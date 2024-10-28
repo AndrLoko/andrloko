@@ -52,7 +52,7 @@ Hi, my name is Andrew
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
-  <img src="https://friconix.com/png/fi-onsuxx-nodejs.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" title="Webpack" alt="Webpack" width="38" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" title="PHP" alt="PHP" width="40" height="40"/>&nbsp

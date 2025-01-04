@@ -65,7 +65,7 @@ Hi, my name is Andrew
 ### 📙 **Tools:**
 
   <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRXp912Lw.0Yxg2DfVOh1gnKXRQeKb8m8DA2Jkx6Xwk0yYA23Ude.JrHx3QjJv9hvUNKZhFYJFJP2QtF6zREDZk-&format=source" title="VS code" alt="VS code" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fcanva-icon%2F&psig=AOvVaw0v77qf2I9nB2o2kkWKTI_e&ust=1736089557220000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOixstyr3IoDFQAAAAAdAAAAABAE" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" title="Figma" alt="Figma" width="30" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/notion-icon-2048x2048-bi8b4fm1.png" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png?20170527113000" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;

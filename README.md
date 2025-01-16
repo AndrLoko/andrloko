@@ -3,7 +3,7 @@ Hi, my name is Andrew
 
 ### :closed_book: **About Me:**
 
- *Hello! I'm a Full Stack developer with a focus on creating dynamic web applications. My stack includes React, Laravel enabling me to craft impressive user interfaces and robust server-side solutions. I strongly believe in clean code, efficient resource utilization, and a constant drive for improvement. My goal is to build products that not only solve problems but also bring joy to users. Let's collaborate and create something amazing together!*
+ *I'm a Front-End Developer specializing in crafting seamless and dynamic web applications. My expertise lies in React and Next.js, enabling me to build exceptional user interfaces and deliver optimized, fast-loading web experiences. I have a passion for clean code, responsive design, and staying at the forefront of the latest web technologies. My goal is to create products that are not only functional but also delightful to use. Let’s collaborate to bring your ideas to life and create something extraordinary together!*
 
 ![GIF-1](https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)
 

@@ -1,6 +1,3 @@
-Hi, my name is Andrew
-==============================================================================================================================
-
 ### :closed_book: **About Me:**
 
  *I'm a Front-End Developer specializing in crafting seamless and dynamic web applications. My expertise lies in React and Next.js, enabling me to build exceptional user interfaces and deliver optimized, fast-loading web experiences. I have a passion for clean code, responsive design, and staying at the forefront of the latest web technologies. My goal is to create products that are not only functional but also delightful to use. Let’s collaborate to bring your ideas to life and create something extraordinary together!*

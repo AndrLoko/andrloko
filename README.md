@@ -54,6 +54,7 @@
   <img src="https://cdn.sanity.io/images/34ent8ly/production/436c0b088c5629d69b965fab38989e03c48222da-824x824.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" title="MetarialUI" alt="MetarialUI" width="35" height="35"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" title="NodeJs" alt="NodeJS" width="35" height="40"/>&nbsp
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" title="Rest API" alt="Rest API" width="35" height="40"/>&nbsp
 </div>
 
 ---

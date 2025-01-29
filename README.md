@@ -48,7 +48,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
-  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&s" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
   <img src="https://cdn.sanity.io/images/34ent8ly/production/436c0b088c5629d69b965fab38989e03c48222da-824x824.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp

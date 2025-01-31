@@ -29,7 +29,7 @@
       <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Youtube"/>
     </a>
     <a href="https://twitter.com/1mMatix" target="_blank">
-      <img src="https://i.ibb.co/Wvj2bVv4/X.png" width="40" height="40" alt="Youtube"/>
+      <img src="https://i.ibb.co/tw1TF4P8/X.png" width="40" height="40" alt="Youtube"/>
     </a>
     <a href="https://ru.pinterest.com/1mMatix" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/1377/1377257.png" width="40" height="40" alt="Youtube"/>

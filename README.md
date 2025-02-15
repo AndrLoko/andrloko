@@ -49,10 +49,10 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" title="SASS" alt="SASS" width="40" height="40"/>&nbsp
   <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp
+  <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" title="MetarialUI" alt="MetarialUI" width="35" height="35"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="45" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
   <img src="https://cdn.sanity.io/images/34ent8ly/production/436c0b088c5629d69b965fab38989e03c48222da-824x824.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp
-  <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" title="MetarialUI" alt="MetarialUI" width="35" height="35"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" title="NodeJs" alt="NodeJS" width="35" height="40"/>&nbsp
 </div>
 

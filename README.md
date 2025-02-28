@@ -65,7 +65,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" title="Figma" alt="Figma" width="30" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/notion-icon-2048x2048-bi8b4fm1.png" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/380px-FileZilla_logo.svg.png?20170527113000" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/1377/1377243.png" title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
+  <img src="https://i.ibb.co/9krQPzmG/vercel.png" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
 </div>
 
 ---

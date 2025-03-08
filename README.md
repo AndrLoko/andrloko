@@ -54,6 +54,9 @@
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" title="Redux" alt="Redux" width="45" height="40"/>&nbsp
   <img src="https://cdn.sanity.io/images/34ent8ly/production/436c0b088c5629d69b965fab38989e03c48222da-824x824.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" title="NodeJs" alt="NodeJS" width="35" height="40"/>&nbsp
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+  <img src="https://www.cdnlogo.com/logos/m/78/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" title="Jest" alt="Jest" width="35" height="40"/>&nbsp
 </div>
 
 ---

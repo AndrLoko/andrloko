@@ -1,6 +1,6 @@
 ### :closed_book: **About Me:**
 
- *I'm a Front-End Developer specializing in crafting seamless and dynamic web applications. My expertise lies in React and Next.js, enabling me to build exceptional user interfaces and deliver optimized, fast-loading web experiences. I have a passion for clean code, responsive design, and staying at the forefront of the latest web technologies. My goal is to create products that are not only functional but also delightful to use. Let’s collaborate to bring your ideas to life and create something extraordinary together!*
+ *I'm a Software Developer focused on building robust and efficient software. I specialize in creating scalable solutions that deliver exceptional performance. My passion lies in writing clean, maintainable code and solving complex problems with thoughtful software design. I am dedicated to delivering products that are both functional and optimized for a seamless user experience. Let's collaborate to bring your ideas to life and create something extraordinary together!*
 
 ![GIF-1](https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)
 

@@ -72,10 +72,9 @@
 
 ---
 
-### :ledger: **Codewars:**
+### :ledger: **LeetCode:**
 
-[![Profile badge](https://www.codewars.com/users/AndrLoko/badges/large)](https://www.codewars.com/users/AndrLoko)
-<br /><br />
+![](https://leetcard.jacoblin.cool/ImMatix?width=500&height=200)
 
 ### 📓 **GitHub stats:**
 

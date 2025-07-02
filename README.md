@@ -1,4 +1,4 @@
-### :closed_book: **About Me:**
+### **About Me:**
 
  *I'm a Software Developer focused on building robust and efficient software. I specialize in creating scalable solutions that deliver exceptional performance. My passion lies in writing clean, maintainable code and solving complex problems with thoughtful software design. I am dedicated to delivering products that are both functional and optimized for a seamless user experience. Let's collaborate to bring your ideas to life and create something extraordinary together!*
 
@@ -6,21 +6,21 @@
 
 <p align="center">
 
-- 🚀 Active participant in educational and professional initiatives!
+- 🔵 Active participant in educational and professional initiatives!
   
-- 🌿 Developing skills in web development and innovative projects.
+- ⚫️ Developing skills in web development and innovative projects.
   
-- ⚡ Leader in web development and technology education, always ready for new challenges!
+- 🔵 Leader in web development and technology education, always ready for new challenges!
   
-- 💡 Passionate about fostering creativity and collaboration in tech endeavors.
+- ⚫️ Passionate about fostering creativity and collaboration in tech endeavors.
 
 ---
 
-### :ledger: **LeetCode:**
+### **LeetCode:**
 
 ![](https://leetcard.jacoblin.cool/ImMatix?width=500&height=200)
 
-### 📓 **GitHub stats:**
+### **GitHub stats:**
 
 <table>
   <tr>

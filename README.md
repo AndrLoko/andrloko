@@ -6,13 +6,13 @@
 
 <p align="center">
 
-- 🔵 Active participant in educational and professional initiatives!
-  
-- ⚫️ Developing skills in web development and innovative projects.
-  
-- 🔵 Leader in web development and technology education, always ready for new challenges!
-  
-- ⚫️ Passionate about fostering creativity and collaboration in tech endeavors.
+– 🔵 Participating in educational and professional initiatives.
+
+– ⚫️ Developing skills in web development and project work.
+
+– 🔵 Interested in technology and learning in the field of web development.
+
+– ⚫️ Valuing creativity and collaboration in IT projects.
 
 ---
 
@@ -20,7 +20,7 @@
 
 ![](https://leetcard.jacoblin.cool/ImMatix?width=500&height=200)
 
-### **GitHub stats:**
+### **GitHub Stats:**
 
 <table>
   <tr>

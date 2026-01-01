@@ -19,25 +19,3 @@
 ### **LeetCode:**
 
 ![](https://leetcard.jacoblin.cool/ImMatix?width=500&height=200)
-
-### **GitHub Stats:**
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=AndrLoko&show_icons=true&theme=dark"
-        alt="AndrLoko's Github stats"
-      />
-    </td>
-    <td>
-      <img
-        style="float: right;"
-        height="195"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrLoko&layout=compact&theme=dark"
-        alt="AndrLoko's Top Languages"
-      />
-    </td>
-  </tr>
-</table>

@@ -25,10 +25,19 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndrLoko&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AndrLoko/github-readme-stats#gh-dark-mode-only" alt="webDev's Github stats" />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=AndrLoko&show_icons=true&theme=dark"
+        alt="AndrLoko's Github stats"
+      />
     </td>
     <td>
-      <img style="float: right;" height="195" alt="AndrLoko's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrLoko&layout=compact&theme=dark" />
+      <img
+        style="float: right;"
+        height="195"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrLoko&layout=compact&theme=dark"
+        alt="AndrLoko's Top Languages"
+      />
     </td>
   </tr>
 </table>
